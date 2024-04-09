@@ -20,6 +20,6 @@ padding: 4px 0;
 text-transform: capitalize;
 text-align: center;
 }
-tr:nth-child(even) {
-background-color: rgb(88, 86, 86);
+.bodyItem:nth-child(even) {
+background-color: rgb(177, 174, 174);
 }
